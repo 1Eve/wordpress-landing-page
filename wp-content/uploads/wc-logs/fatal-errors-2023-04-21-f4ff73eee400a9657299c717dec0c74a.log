@@ -1,0 +1,102 @@
+2023-04-21T14:09:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\includes\controls\code.php on line 6
+
+2023-04-21T14:15:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\formatting.php on line 2285
+
+2023-04-21T14:23:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+
+2023-04-21T15:52:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 188
+
+2023-04-21T15:53:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 6651
+
+2023-04-21T15:53:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 6651
+
+2023-04-21T15:53:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 4536
+
+2023-04-21T15:53:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\blocks.php on line 324
+
+2023-04-21T15:53:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
+2023-04-21T15:54:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 4536
+
+2023-04-21T15:54:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-04-21T15:54:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-04-21T15:55:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\modules\announcements\classes\trigger-base.php on line 5
+
+2023-04-21T15:55:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-04-21T15:55:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:55:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:55:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:55:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:56:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:56:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
+2023-04-21T15:56:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\core\admin\menu\admin-menu-manager.php on line 40
+
+2023-04-21T15:56:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
+2023-04-21T15:56:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:57:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:57:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:57:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:57:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 6673
+
+2023-04-21T15:57:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:57:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:58:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\menu-icons\vendor\codeinwp\themeisle-sdk\src\Modules\Review.php on line 18
+
+2023-04-21T15:58:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:59:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:59:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:59:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:59:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T15:59:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 6782
+
+2023-04-21T16:00:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T16:00:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T16:01:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 4536
+
+2023-04-21T16:01:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\menu-icons\vendor\codeinwp\themeisle-sdk\src\Modules\Dashboard_widget.php on line 18
+
+2023-04-21T16:01:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php on line 10
+
+2023-04-21T16:01:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T16:01:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 4550
+
+2023-04-21T16:01:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T16:01:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\blocks.php on line 345
+
+2023-04-21T16:01:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T16:01:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\functions.php on line 4536
+
+2023-04-21T16:02:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\product-query.asset.php on line 1
+
+2023-04-21T16:02:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-content\plugins\wpforms-lite\includes\class-fields.php on line 105
+
+2023-04-21T16:02:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\class-wpdb.php on line 2431
+
+2023-04-21T16:02:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-landing-page\wp-includes\blocks.php on line 324
+
