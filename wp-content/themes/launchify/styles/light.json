@@ -1,0 +1,167 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+		"custom": {
+			"lightMode": false,
+			"darkMode": {
+				"palette": {
+					"contrast": "#ffffff",
+					"heading": "#f6f6f9",
+					"body": "#acacd0",
+					"outline": "#2b2a5dd6",
+					"surface": "#7d9aff11",
+					"base": "#0e1123",
+					"lighten": "#7d9aff11"
+				},
+				"gradients": {
+					"fadeLeft": "linear-gradient(90deg,#0e1123 0%,#0e112300 100%)",
+					"fadeRight": "linear-gradient(-90deg,#0e1123 0%,#0e112300 100%)",
+					"ghostText": "var(--wp--preset--color--contrast)",
+					"heading": "radial-gradient(250% 250% at 50% 25%, var(--wp--preset--color--contrast) 0%, transparent 100%)"
+				}
+			}
+		},
+		"color": {
+			"palette": [
+				{
+					"color": "#444cf7",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#444cf777",
+					"name": "Primary Light",
+					"slug": "primary-light"
+				},
+				{
+					"color": "#444cf722",
+					"name": "Primary Lighter",
+					"slug": "primary-lighter"
+				},
+				{
+					"color": "#8a5dff",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#8a5dff77",
+					"name": "Secondary Light",
+					"slug": "secondary-light"
+				},
+				{
+					"color": "#8a5dff22",
+					"name": "Secondary Lighter",
+					"slug": "secondary-lighter"
+				},
+				{
+					"color": "#0e1123",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#1d243c",
+					"name": "Heading",
+					"slug": "heading"
+				},
+				{
+					"color": "#3f4c7c",
+					"name": "Body",
+					"slug": "body"
+				},
+				{
+					"color": "#f1f1ff",
+					"name": "Outline",
+					"slug": "outline"
+				},
+				{
+					"color": "#6755fb0d",
+					"name": "Surface",
+					"slug": "surface"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#ffffff99",
+					"name": "Lighten",
+					"slug": "lighten"
+				},
+				{
+					"color": "currentColor",
+					"name": "Current Color",
+					"slug": "currentColor"
+				},
+				{
+					"color": "inherit",
+					"name": "Inherit",
+					"slug": "inherit"
+				},
+				{
+					"color": "rgba(0,0,0,0)",
+					"name": "Transparent",
+					"slug": "transparent"
+				}
+			],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(135deg,var(--wp--preset--color--secondary),var(--wp--preset--color--primary))",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"gradient": "linear-gradient(135deg,var(--wp--preset--color--secondary-light),var(--wp--preset--color--primary-light))",
+					"name": "Primary Light",
+					"slug": "primary-light"
+				},
+				{
+					"gradient": "linear-gradient(135deg,var(--wp--preset--color--secondary-lighter),var(--wp--preset--color--primary-lighter))",
+					"name": "Primary Lighter",
+					"slug": "primary-lighter"
+				},
+				{
+					"gradient": "radial-gradient(45% 100% at 45% 100%, var(--wp--preset--color--secondary) 0%, transparent 100%),radial-gradient(45% 100% at 55% 100%, var(--wp--preset--color--primary) 0%, transparent 100%)",
+					"name": "Glow Up",
+					"slug": "glow-up"
+				},
+				{
+					"gradient": "radial-gradient(40% 40% at 40% 40%, var(--wp--preset--color--primary-lighter) 0%, transparent 100%),radial-gradient(40% 40% at 60% 60%, var(--wp--preset--color--secondary-lighter) 0%, transparent 100%)",
+					"name": "Circle",
+					"slug": "circle"
+				},
+				{
+					"gradient": "radial-gradient(75% 150% at 50% -100%, var(--wp--preset--color--primary-lighter) 0%, transparent 100%)",
+					"name": "Light Bulb",
+					"slug": "light-bulb"
+				},
+				{
+					"gradient": "conic-gradient(var(--wp--preset--color--surface) 0% 35%, var(--wp--preset--color--outline) 35% 60%, var(--wp--preset--color--primary-light) 60% 100%)",
+					"name": "Pie Chart",
+					"slug": "pie-chart"
+				},
+				{
+					"gradient": "linear-gradient(90deg,#ffffff 0%,#ffffff00 100%)",
+					"name": "Fade Left",
+					"slug": "fade-left"
+				},
+				{
+					"gradient": "linear-gradient(-90deg,#ffffff 0%,#ffffff00 100%)",
+					"name": "Fade Right",
+					"slug": "fade-right"
+				},
+				{
+					"gradient": "var(--wp--preset--gradient--primary)",
+					"name": "Ghost Text",
+					"slug": "ghost-text"
+				},
+				{
+					"gradient": "radial-gradient(250% 250% at 50% 25%, var(--wp--preset--color--heading) 0%, var(--wp--preset--color--secondary) 100%)",
+					"name": "Heading",
+					"slug": "heading"
+				}
+			]
+		}
+	}
+}
